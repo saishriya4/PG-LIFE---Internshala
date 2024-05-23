@@ -1,7 +1,3 @@
-![Screenshot (437)](https://github.com/saishriya4/PG-LIFE---Internshala/assets/112546603/b2676c13-59c3-4996-8670-7bac0e49eb7a)
-![Screenshot (436)](https://github.com/saishriya4/PG-LIFE---Internshala/assets/112546603/f5dddd31-48a4-4111-b107-ccbca378fc34)
-![Screenshot (435)](https://github.com/saishriya4/PG-LIFE---Internshala/assets/112546603/ed5eae39-4984-4c3f-9f8a-e3016b0a18f5)
-![Screenshot (434)](https://github.com/saishriya4/PG-LIFE---Internshala/assets/112546603/f04740ea-ef72-4e32-9446-906d05325d7d)
 
 
 PG Life Web Application Overview:
